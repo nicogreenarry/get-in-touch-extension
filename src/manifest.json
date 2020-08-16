@@ -1,0 +1,11 @@
+{
+  "name": "Get In Touch",
+  "version": "0.1.0",
+  "description": "See your Get In Touch contacts",
+  "browser_action": {
+    "default_title": "Get In Touch",
+    "default_popup": "popup.html"
+  },
+
+  "manifest_version": 2
+}

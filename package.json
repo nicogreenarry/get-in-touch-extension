@@ -1,0 +1,23 @@
+{
+  "name": "get-in-touch-extension",
+  "version": "0.1.0",
+  "description": "",
+  "main": "manifest.json",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicogreenarry/get-in-touch-extension.git"
+  },
+  "author": "Nico and Vlad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicogreenarry/get-in-touch-extension/issues"
+  },
+  "homepage": "https://github.com/nicogreenarry/get-in-touch-extension#readme"
+}
